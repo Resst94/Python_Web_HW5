@@ -9,6 +9,4 @@ Write a console utility that returns PrivatBank's EUR and USD exchange rates for
 add the ability to select additional currencies in the program's responses through the passed parameters of the console utility
 take the web socket chat from the lecture material and add the ability to enter the exchange command. It shows users the current exchange rate in text format. You can choose the format of the display at your own discretion
 extend the added exchange command to allow users to view the exchange rate in the chat for the last few days. Example exchange 2
-use the aiofile and aiopath packages to add logging to the file when the exchange command was executed in the chat
-
-Translated with DeepL.com (free version)
+use the aiofile and aiopath packages to add logging to the file when the exchange command was executed in the chat.
